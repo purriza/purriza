@@ -14,6 +14,9 @@ While most of my work has been under NDA or for private companies, here are some
 ## 💰 DeFi Contracts
 - [Testnet: 0x5dA6...075](https://testnet.bscscan.com/address/0x5dA64d2Ff6996c9D7BF07324A2943ee157581075)
 - [Mainnet: 0xb16c...610](https://bscscan.com/address/0xb16c4db422594d18e051d06cd75792a433d01610)
+- [Mainnet: 0x29dc...72a](https://etherscan.io/address/0x29d0cb5155e4d395f52d4fe320c37343bc64372a)
+- [Mainnet: 0x2778...348](https://etherscan.io/address/0x2778b5f2aed8de1b2b87d372228a251662790348)
+
 
 ## 🛡 Security & Bug Hunting
 I'm also passionate about **smart contract security**. I've performed independent audits and submitted findings to platforms like [Immunefi](https://immunefi.com), which has helped me sharpen my ability to spot vulnerabilities and analyze complex codebases, even if none of my submissions have resulted in bounties (yet!).
