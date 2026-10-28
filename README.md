@@ -4,7 +4,7 @@ I'm a Smart Contract Engineer with nearly 4 years of blockchain experience and 8
 
 I’ve designed and developed smart contracts across DeFi, RWA tokenization and GameFi, from architecture and testing to audit remediation and mainnet deployment.
 
-Much of my work is private or covered by NDAs. Here are some publicly inspectable examples.
+Here are some publicly inspectable examples.
 
 ## 💰 DeFi Lending and Stablecoin
 
